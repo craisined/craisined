@@ -1,21 +1,21 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20World&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&animation=fadeIn&desc=I%20am%20@craisin&descSize=16&descAlign=50&descAlignY=90&textBg=false&color=914639"  />
 </div>
+<br>
 
 <p align="left">
     I am Kah Kai Cayden Yap (I go by Cayden), a mainly Python dev with an interest in competitive programming, ML, and self hosting.
     Find out more about me at <a href="https://craisin.tech">my website</a>.
 </p>
 
-
-<h2>About Me</h2>
+<h2>About Me 🧑‍💻</h2>
 <ul>
     <li>High schooler, class of '27</li>
     <li>Currently balancing school while preparring for USACO and doing cool projects</li>
     <li>Saber fencer in my free time</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Projects 🌟</h2>
 <ul>
     <li>Craisin Cove - my own personal website</li>
     <li>ShapeAI - a fun fork I did of an old project of @quentinbkks</li>
@@ -23,7 +23,7 @@
     <li>Jackson Calendar - an AI based secretary made for scheduling events (made for Los Altos Hacks)</li>
 </ul>
 
-<h2>Tech</h2>
+<h2>Tech 🤖</h2>
 <p align="left">Mainly focused on Python, but picking up C++ and some vanilla JS. Competent in Docker and Linux through homelabbing.</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
