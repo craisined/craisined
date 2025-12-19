@@ -18,7 +18,7 @@
 <h2>Projects 🌟</h2>
 <ul>
     <li>Craisin Cove - my own personal website</li>
-    <li>ShapeAI - a fun fork I did of an old project of @quentinbkks</li>
+    <li>ShapeAI - a fun fork I did of an old project of <a href="https://github.com/quentinbkk">@quentinbkks</a></li>
     <li>Homelab Compose - a docker compose stack I made that hosts public and private services in my homelab</li>
     <li>Jackson Calendar - an AI based secretary made for scheduling events (made for Los Altos Hacks)</li>
 </ul>
