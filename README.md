@@ -1,46 +1,23 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20World&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=I%20am%20@craisin&descSize=16&descAlign=50&descAlignY=90&textBg=false&color=914639"  />
-</div>
-<br>
+# hey, i'm cayden (´• ω •)ﾉ
 
-<p align="left">
-    I am Kah Kai Cayden Yap (I go by Cayden), a mainly Python dev with an interest in competitive programming, ML, and self hosting.
-    Find out more about me at <a href="https://craisin.tech">my website</a>.
-</p>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcraisined&label=visitors&countColor=%23f47373)
 
-<h2>About Me 🧑‍💻</h2>
-<ul>
-    <li>High schooler, class of '27</li>
-    <li>Currently balancing school while preparring for USACO and doing cool projects</li>
-    <li>Saber fencer in my free time</li>
-</ul>
+i am a python programmer in high school. i like coding, compo math, and stabbing people. i go by craisin(ed) in many places. find me [on my website](https://craisin.tech)
 
-<h2>Projects 🌟</h2>
-<ul>
-    <li>Craisin Cove - my own personal website</li>
-    <li>ShapeAI - a fun fork I did of an old project of <a href="https://github.com/quentinbkk">@quentinbkks</a></li>
-    <li>Homelab Compose - a docker compose stack I made that hosts public and private services in my homelab</li>
-    <li>Jackson Calendar - an AI based secretary made for scheduling events (made for Los Altos Hacks)</li>
-</ul>
+## highlight projects
+- [tinyapper](https://github.com/craisined/tinyapper): a tiny language model from scratch for stardance 2026
+- [stich](https://github.com/craisined/stich): a gan converting humming into classical music
+- [homelab compose](https://github.com/craisined/homelab-compose): docker compose file for my homelab
+- [dumbcart](https://github.com/craisined/dumb-cart): cart measuring motion data as a proof of concept for my physics class
 
-<h2>Tech 🤖</h2>
-<p align="left">Mainly focused on Python, but picking up C++ and some vanilla JS. Competent in Docker and Linux through homelabbing.</p>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-</div>
+## stats
+![hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=66797&api_domain=hackatime.hackclub.com&theme=github_dark_dimmed&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=914639"  />
-</div>
+## tech
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MicroPython](https://img.shields.io/badge/micropython-%232B2728.svg?style=for-the-badge&logo=micropython&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white)
